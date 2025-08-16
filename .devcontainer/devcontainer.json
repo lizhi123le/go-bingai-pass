@@ -1,0 +1,6 @@
+{
+  "name": "Go Proxy BingAI ByPass",
+  "build": {
+    "dockerfile": "Dockerfile"
+  }
+}
